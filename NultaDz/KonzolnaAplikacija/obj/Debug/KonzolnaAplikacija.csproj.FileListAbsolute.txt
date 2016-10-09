@@ -1,0 +1,10 @@
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe.config
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.pdb
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.csprojResolveAssemblyReference.cache
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.exe
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.pdb
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\ClassLibrary1.dll
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\ClassLibrary1.pdb
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\NodaTime.dll
+D:\0.-domaca-zadaca\NultaDz\KonzolnaAplikacija\bin\Debug\NodaTime.xml
