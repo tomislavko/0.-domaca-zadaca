@@ -1,4 +1,4 @@
-﻿JMBAG
+﻿# JMBAG
 0036494620
 #Pitanje 1
 Primjećujem da su uz debug datoteke program.cs, također i ClassLibrary1 datoteke. Kada pokušamo pokrenuti executable datoteku, aplikacija nam se sruši i javlja da ne može učitati datoteku ClassLibrary1. Zato što se u datoteci ClassLibrary1.dll nalazi klasa s metodom PrintHelloWorld koju koristimo u nasoj aplikaciji. Ako me trazite da vam pošaljem aplikaciju poslao bih .dll i .exe datoteke.
